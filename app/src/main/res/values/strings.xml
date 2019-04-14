@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Taza</string>
+    <string name="sec1">Tazalyk</string>
+    <string name="sec2">Сдавая мусор в пункты приема,Вы делаете свой город чище!</string>
+    <string name="secb1">Войти</string>
+    <string name="secb2">Позже</string>
+    <string name="regb2">Отправить код</string>
+    <string name="regb1">Позже</string>
+    <string name="title_activity_second">Second</string>
+    <string name="mapT1">Выберите категорию, и на карте появятся нужные пункты</string>
+    <string name="mapB1">Макалатура</string>
+    <string name="mapB2">Пластик</string>
+    <string name="mapB3">Электроника</string>
+    <string name="mapB4">Стекло</string>
+    <string name="mapB5">Медицинские</string>
+    <string name="main1">Tazalyk</string>
+    <string name="reg2t1">Tazalyk</string>
+    <string name="reg2b1">Вход</string>
+    <string name="reg2b2">Неверный номер?</string>
+    <string name="reg2b3">Код не пришел?</string>
+</resources>
