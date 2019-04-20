@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/BAO"
+    android:background="@drawable/bao"
     >
 
     <EditText
@@ -21,7 +21,7 @@
 
     <Button
         android:id="@+id/button3"
-        style="@style/Widget.AppCompat.Button.ButtonBar.AlertDialog"
+
         android:layout_width="88dp"
         android:layout_height="48dp"
         android:layout_marginStart="8dp"
@@ -44,7 +44,7 @@
 
     <Button
         android:id="@+id/button4"
-       android:style="@style/Widget.AppCompat.Button.Small"
+
         android:layout_width="161dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="136dp"

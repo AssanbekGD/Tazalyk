@@ -12,8 +12,8 @@
         <activity android:name=".Reg2"></activity>
         <activity android:name=".Map" />
         <activity android:name=".Reg" />
-        <activity android:name=".Second" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Second">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

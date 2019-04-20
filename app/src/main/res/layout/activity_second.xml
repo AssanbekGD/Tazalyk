@@ -40,7 +40,7 @@
 
     <Space
         android:layout_width="match_parent"
-        android:layout_height="350dp" />
+        android:layout_height="300dp" />
 
     <Button
         android:id="@+id/secb1"
@@ -59,7 +59,7 @@
 
     <Space
         android:layout_width="match_parent"
-        android:layout_height="120dp" />
+        android:layout_height="50dp" />
 
     <Button
         android:id="@+id/secb2"
