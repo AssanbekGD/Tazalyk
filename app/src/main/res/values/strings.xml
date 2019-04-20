@@ -1,7 +1,8 @@
 <resources>
     <string name="app_name">Taza</string>
     <string name="sec1">Tazalyk</string>
-    <string name="sec2">Сдавая мусор в пункты приема,Вы делаете свой город чище!</string>
+    <string name="sec2">Сдавая мусор в пункты приема,\n
+        Вы делаете свой город чище!</string>
     <string name="secb1">Войти</string>
     <string name="secb2">Позже</string>
     <string name="regb2">Отправить код</string>

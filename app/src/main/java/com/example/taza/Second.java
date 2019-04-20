@@ -8,20 +8,20 @@ import android.content.Intent;
 
 public class Second extends AppCompatActivity  implements View.OnClickListener {
 
-    Button regb2;
+   public Button secb2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_second);
 
-        regb2 = (Button) findViewById(R.id.regb2);
-        regb2.setOnClickListener(this);
+        secb2 =  findViewById(R.id.secb2);
+        secb2.setOnClickListener(this);
     }
 
     public void onClick(View v) {
         switch (v.getId()) {
-            case R.id.regb2:
+            case R.id.secb2:
                 Intent intent = new Intent(this,Map.class );
                 startActivity(intent);
                 break;
