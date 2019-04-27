@@ -9,8 +9,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".Reg2"></activity>
+        <activity android:name=".Profile"></activity>
+        <activity android:name=".Best" />
+        <activity
+            android:name=".Ma"
+            android:label="@string/title_activity_ma" />
         <activity android:name=".Map" />
+        <activity android:name=".Reg2" />
         <activity android:name=".Reg" />
         <activity android:name=".MainActivity" />
         <activity android:name=".Second">

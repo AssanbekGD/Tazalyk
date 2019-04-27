@@ -22,7 +22,7 @@ public class Second extends AppCompatActivity  implements View.OnClickListener {
     public void onClick(View v) {
         switch (v.getId()) {
             case R.id.secb2:
-                Intent intent = new Intent(this,Map.class );
+                Intent intent = new Intent(this,Ma.class );
                 startActivity(intent);
                 break;
             default:

@@ -8,7 +8,7 @@
     <string name="regb2">Отправить код</string>
     <string name="regb1">Позже</string>
     <string name="title_activity_second">Second</string>
-    <string name="mapT1">Выберите категорию, и на карте появятся нужные пункты</string>
+    <string name="mapT1">Выберите категорию,\n и на карте появятся нужные пункты</string>
     <string name="mapB1">Макалатура</string>
     <string name="mapB2">Пластик</string>
     <string name="mapB3">Электроника</string>
@@ -19,4 +19,19 @@
     <string name="reg2b1">Вход</string>
     <string name="reg2b2">Неверный номер?</string>
     <string name="reg2b3">Код не пришел?</string>
+    <string name="title_activity_map">Map</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_ma">Ma</string>
+    <string name="title_map">Карта</string>
+    <string name="title_best">Лучшие</string>
+    <string name="title_profile">Профиль</string>
+    <string name="bestT1">Лучшие Эко-Пользователи</string>
+    <string name="bestT2">&#8230; \n место</string>
+    <string name="bestT3">&#8230; \n кг</string>
+    <string name="ProfileT1">Профиль</string>
+    <string name="ProfileT2">Для сохранения результатов и для \n получения бонусов потребуется профиль</string>
 </resources>
